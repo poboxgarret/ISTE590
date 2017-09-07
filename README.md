@@ -1,7 +1,6 @@
-#This repsoitory is for NSSA590
+# This repository is for ISTE-590.
 
-There are tow programs.
+There are two programs.
 
 1.  Poker Dice
 2.  Network Scout
-
