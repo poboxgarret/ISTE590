@@ -1,5 +1,7 @@
-#This is a test
+#This repsoitory is for NSSA590
 
-This is a program that rolls dice to emulate a Poker hand.
+There are tow programs.
 
+1.  Poker Dice
+2.  Network Scout
 
